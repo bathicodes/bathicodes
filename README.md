@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/34160159/176984510-a8a9e58e-896b-492b-bfe8-0d053d8d46df.gif" width="1000px">
+  <img src="https://user-images.githubusercontent.com/34160159/176984510-a8a9e58e-896b-492b-bfe8-0d053d8d46df.gif" width="100px">
   <br><br>
   <samp>
 I'm Bathiya. An AI Researcher and Software Engineer from Sri Lanka. I'm skilled in solving problems using Python, Machine Learning and Deep Learning, like Computer vision, Object & Gesture Recognition, Natural Language Processing to name a few.
